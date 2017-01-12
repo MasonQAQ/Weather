@@ -1,0 +1,5 @@
+2017-01-12 11:49:17    API出错unknown city
+2017-01-12 11:49:29    API出错unknown city
+2017-01-12 11:55:23    插入数据到 北京 失败Duplicate entry '2017-01-12' for key 'PRIMARY'
+2017-01-12 11:57:48    API出错unknown city
+
